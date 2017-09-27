@@ -1,2 +1,2 @@
 # HouseVal
-KAggle House value learning competition
+Kaggle House value learning competition
